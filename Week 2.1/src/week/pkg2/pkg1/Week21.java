@@ -17,6 +17,7 @@ public class Week21 {
     hi
     public static void main(String[] args) {
         // TODO code application logic here
+        // merging and fetching
     }
     
 }
